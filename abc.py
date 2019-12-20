@@ -1,0 +1,2 @@
+print("prakash")
+print("hai")
